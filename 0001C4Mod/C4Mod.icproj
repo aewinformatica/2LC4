@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="C4Mod"
+	ProjectGUID="{A538F8FD-03E4-448A-B3A2-7F52AA108CAF}"
+	VCNestedProjectGUID="{3933BAB7-C9B2-48AA-8431-255D0C3A4CEE}"
+	VCNestedProjectFileName="C4Mod.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
